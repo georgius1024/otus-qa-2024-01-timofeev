@@ -5,3 +5,9 @@
 - Option 2
 - Option 3
 
+## Feature plan policy
+Lorem ipsum dolor amet.........
+...............................
+
+## One more section
+..............................
